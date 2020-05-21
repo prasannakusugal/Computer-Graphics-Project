@@ -7,6 +7,6 @@ How to Setup OpenGL (GLUT) in CodeBlocks?
 https://www.codewithc.com/how-to-setup-opengl-glut-in-codeblocks/
 
 Keys to Be Used:
-'Space' to stop/start Engine
-'+' to Speed up Engine 
+'Space' to stop/start Engine,
+'+' to Speed up Engine ,
 '-' to slow down Engine
